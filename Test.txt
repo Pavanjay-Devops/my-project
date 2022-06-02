@@ -1,1 +1,2 @@
 MVC Application 
+Adding anothre line for Azure repositry and push the code local repositry
